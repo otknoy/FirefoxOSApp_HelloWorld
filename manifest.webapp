@@ -1,0 +1,7 @@
+{
+  "name": "Hello, World!",
+  "launch_path": "index.html",
+  "icon": {
+    "128": "/img/icon.jpg"
+  }
+}
